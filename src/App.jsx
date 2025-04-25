@@ -8,6 +8,8 @@ export const App = () => {
     setCount(prev => prev + 1);
   };
 
+  // coderefactoring
+
   const add100 = () => {
     setCount(prev => prev + 100);
   };
